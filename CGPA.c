@@ -14,7 +14,7 @@ void menu()
    printf("\t\t   Welcome To GPA Calculator(IPU SEM-2) !!\n");
    printf("\n\t\t\t ->Coded By - SARWAR ALI<-\n");
    printf("\n\t\t\t     Github-sarwar1227\n");
-   printf("\n\tCheckout Source Code at:https://github.com/sarwar1227/CGPA-CALC");
+   printf("\n\tCheckout Source Code at:https://github.com/sarwar1227/CGPA-CALC/CGPA.c");
    printf("\n\n\t\tPress Enter For Entering Your Marks(Out Of 100)\n\n");
    getch();
    system("cls");
