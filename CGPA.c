@@ -82,7 +82,7 @@ int main()
         }
     system("cls");
     printf("\n\n\n\n\n\n\t\t\tGPA=%0.1f",gpa);
-    printf("\n\n\t\t\tPercentage:%0.2f",gpa*10);
+    printf("\n\n\t\t\tPercentage:%0.2f",gpa*9.51);
     printf("\n\n\tThank You For Using GPA Calculator !! Have A Nice Day");
     printf("\n\n\n\n");
     return 0;
