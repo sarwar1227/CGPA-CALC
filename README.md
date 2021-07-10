@@ -1,7 +1,7 @@
 # CGPA-CALC 
 CGPA Calculator for IPU Second Semester Exams using **C Language**.
 
-## `Interface of App`
+## `Interface of Project`
 
 **Greeting Screen** 
 - ![alt text](https://github.com/sarwar1227/CGPA-CALC/blob/master/outputs/1.png?raw=true)
