@@ -1,5 +1,5 @@
-# CGPA-CALC
-CGPA Calculator for IPU Second Semester Exams using C Language.
+# CGPA-CALC 
+CGPA Calculator for IPU Second Semester Exams using **C Language**.
 
 ## `Interface of App`
 
