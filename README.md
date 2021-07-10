@@ -4,7 +4,7 @@ CGPA Calculator for IPU Second Semester Exams
 ## `Interface of App`
 
 **Greeting Screen**
-![alt text](https://github.com/sarwar1227/CGPA-CALC/blolb/master/outputs/1.png?raw=true)
+![alt text](https://github.com/sarwar1227/CGPA-CALC/blob/master/outputs/1.png?raw=true)
 
 **Loading Screen**
 ![alt text](https://github.com/sarwar1227/CGPA-CALC/blob/main/outputs/2.png?raw=true)
