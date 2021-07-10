@@ -9,7 +9,7 @@ CGPA Calculator for IPU Second Semester Exams
 **Loading Screen**
 - ![alt text](https://github.com/sarwar1227/CGPA-CALC/blob/master/outputs/2.png?raw=true)
 
-**After Input Calculating**
+**After Input Calculating Screen**
 - ![alt text](https://github.com/sarwar1227/CGPA-CALC/blob/master/outputs/3.png?raw=true)
 
 **Output Screen**
